@@ -1,0 +1,467 @@
+{
+  "photosynthesis": {
+    "title": "Photosynthesis",
+    "emoji": "🌱",
+    "aliases": ["how plants make food", "plant food"],
+    "levels": {
+      "young": {
+        "analogy": "A leaf is a tiny kitchen. Sunlight is the cooker, water and air are the ingredients, and the plant cooks its own food.",
+        "steps": [
+          "Roots drink up water from the soil",
+          "Leaves take in air",
+          "Sunlight helps the leaf turn them into food"
+        ],
+        "quiz": [
+          {
+            "question": "What is the plant's 'cooker'?",
+            "choices": ["The soil", "Sunlight", "The wind"],
+            "answer": 1,
+            "remember": "Sunlight gives the plant the energy to make its food."
+          },
+          {
+            "question": "How does a plant get water?",
+            "choices": ["Through its roots", "Through its flowers", "From the sun"],
+            "answer": 0,
+            "remember": "Roots drink water from the soil."
+          },
+          {
+            "question": "Who makes the plant's food?",
+            "choices": ["A bird", "The farmer", "The plant itself"],
+            "answer": 2,
+            "remember": "Plants make their own food. That is what photosynthesis means."
+          }
+        ]
+      },
+      "middle": {
+        "analogy": "A leaf is a tiny kitchen. Sunlight is the cooker, water and carbon dioxide are the ingredients, and sugar is the meal the plant makes for itself. Oxygen is the steam that drifts out.",
+        "steps": [
+          "Roots drink water",
+          "Leaves breathe in carbon dioxide",
+          "Sunlight powers the 'cooking'",
+          "Out comes sugar (food) and oxygen"
+        ],
+        "quiz": [
+          {
+            "question": "Which gas do leaves take in?",
+            "choices": ["Oxygen", "Carbon dioxide", "Helium"],
+            "answer": 1,
+            "remember": "Leaves take in carbon dioxide and give out oxygen."
+          },
+          {
+            "question": "What food does the plant make?",
+            "choices": ["Salt", "Protein", "Sugar"],
+            "answer": 2,
+            "remember": "Photosynthesis makes sugar, which the plant uses for energy and growth."
+          },
+          {
+            "question": "Which gas does the plant give out?",
+            "choices": ["Oxygen", "Nitrogen", "Carbon dioxide"],
+            "answer": 0,
+            "remember": "The oxygen we breathe comes from photosynthesis."
+          }
+        ]
+      },
+      "teen": {
+        "analogy": "A leaf is a solar-powered factory. Chlorophyll is the solar panel, water and carbon dioxide are the raw materials, glucose is the product, and oxygen is the by-product released through the stomata.",
+        "steps": [
+          "Chlorophyll in the chloroplasts absorbs light energy",
+          "Light energy splits water, releasing oxygen (light-dependent reactions)",
+          "Carbon dioxide is fixed into glucose (the Calvin cycle)",
+          "Overall: 6CO2 + 6H2O + light -> C6H12O6 + 6O2"
+        ],
+        "quiz": [
+          {
+            "question": "Where in the cell does photosynthesis happen?",
+            "choices": ["Mitochondria", "Chloroplasts", "Nucleus"],
+            "answer": 1,
+            "remember": "Chloroplasts contain chlorophyll and are where photosynthesis takes place."
+          },
+          {
+            "question": "The oxygen released comes from which molecule?",
+            "choices": ["Carbon dioxide", "Glucose", "Water"],
+            "answer": 2,
+            "remember": "Splitting water in the light-dependent reactions releases the oxygen."
+          },
+          {
+            "question": "Which pigment absorbs the light?",
+            "choices": ["Chlorophyll", "Haemoglobin", "Melanin"],
+            "answer": 0,
+            "remember": "Chlorophyll absorbs red and blue light and reflects green, which is why leaves look green."
+          }
+        ]
+      }
+    }
+  },
+  "gravity": {
+    "title": "Gravity",
+    "emoji": "🍎",
+    "aliases": ["gravitation"],
+    "levels": {
+      "young": {
+        "analogy": "Gravity is like an invisible hug from the Earth. It keeps pulling everything towards it, so things fall down instead of floating away.",
+        "steps": [
+          "Drop a ball and it falls down",
+          "Gravity pulls things towards the Earth",
+          "It keeps our feet on the ground"
+        ],
+        "quiz": [
+          {
+            "question": "Which way does a dropped ball go?",
+            "choices": ["Up", "Down", "Sideways"],
+            "answer": 1,
+            "remember": "Gravity pulls things down towards the Earth."
+          },
+          {
+            "question": "What keeps us on the ground?",
+            "choices": ["Gravity", "The wind", "Glue"],
+            "answer": 0,
+            "remember": "Gravity keeps our feet on the ground."
+          },
+          {
+            "question": "Does the Moon have gravity?",
+            "choices": ["No, only the Earth does", "Only at night", "Yes, but weaker than Earth's"],
+            "answer": 2,
+            "remember": "Everything has gravity. The Moon's pull is weaker because it is smaller."
+          }
+        ]
+      },
+      "middle": {
+        "analogy": "Picture a heavy bowling ball on a trampoline. It makes a dip, and marbles nearby roll towards it. Big objects like the Earth and the Sun make big dips, so things are pulled towards them.",
+        "steps": [
+          "Every object with mass pulls on every other object",
+          "More mass means a stronger pull",
+          "Being closer means a stronger pull",
+          "The Earth's pull gives us our weight, and the Sun's pull keeps the Earth in orbit"
+        ],
+        "quiz": [
+          {
+            "question": "What keeps the Earth going around the Sun?",
+            "choices": ["The Sun's gravity", "Wind in space", "The Earth's magnetism"],
+            "answer": 0,
+            "remember": "The Sun's gravity keeps the planets in orbit."
+          },
+          {
+            "question": "If you stood on the Moon, your weight would be...",
+            "choices": ["More", "Less", "The same"],
+            "answer": 1,
+            "remember": "The Moon has less mass, so it pulls on you less. You would weigh about a sixth as much."
+          },
+          {
+            "question": "Which pulls on you harder?",
+            "choices": ["A pencil", "Both the same", "The Earth"],
+            "answer": 2,
+            "remember": "More mass means a stronger pull, and the Earth has far more mass than a pencil."
+          }
+        ]
+      },
+      "teen": {
+        "analogy": "Mass curves space and time, like a bowling ball on a trampoline. Objects move along those curves, which looks to us like a pulling force.",
+        "steps": [
+          "Newton: F = G x m1 x m2 / r^2",
+          "Double the distance and the force drops to a quarter (inverse square law)",
+          "Weight = mass x g, where g is about 9.8 m/s^2 on Earth",
+          "Einstein: mass curves spacetime, and objects follow the curves"
+        ],
+        "quiz": [
+          {
+            "question": "If you double the distance between two objects, the gravitational force becomes...",
+            "choices": ["Half", "A quarter", "Double"],
+            "answer": 1,
+            "remember": "Gravity follows the inverse square law: 2x the distance gives 1/4 of the force."
+          },
+          {
+            "question": "What are the units of g?",
+            "choices": ["m/s^2", "kg", "N"],
+            "answer": 0,
+            "remember": "g is an acceleration, measured in metres per second squared."
+          },
+          {
+            "question": "About how much does a 10 kg mass weigh on Earth?",
+            "choices": ["10 N", "980 N", "98 N"],
+            "answer": 2,
+            "remember": "Weight = mass x g = 10 x 9.8 = 98 newtons."
+          }
+        ]
+      }
+    }
+  },
+  "electricity": {
+    "title": "Electricity",
+    "emoji": "⚡",
+    "aliases": ["electric current", "circuits"],
+    "levels": {
+      "young": {
+        "analogy": "Electricity is like water flowing through a pipe. The wire is the pipe and the battery is the pump that pushes it round.",
+        "steps": [
+          "A battery pushes the electricity",
+          "It flows along the wires",
+          "When the loop is complete, the bulb lights up"
+        ],
+        "quiz": [
+          {
+            "question": "What pushes the electricity?",
+            "choices": ["A battery", "A pencil", "A cup"],
+            "answer": 0,
+            "remember": "The battery is the pump that pushes electricity round."
+          },
+          {
+            "question": "What does electricity travel along?",
+            "choices": ["String", "Wires", "Paper"],
+            "answer": 1,
+            "remember": "Electricity flows along metal wires."
+          },
+          {
+            "question": "If the loop is broken, the bulb...",
+            "choices": ["Stays on", "Gets brighter", "Goes off"],
+            "answer": 2,
+            "remember": "Electricity needs a complete loop, called a circuit."
+          }
+        ]
+      },
+      "middle": {
+        "analogy": "Think of water in pipes. Voltage is the water pressure, current is how much water flows, and resistance is a narrow bit of pipe that slows it down.",
+        "steps": [
+          "A circuit is a complete loop",
+          "Voltage is the push, measured in volts",
+          "Current is the flow, measured in amps",
+          "Resistance slows the flow, measured in ohms"
+        ],
+        "quiz": [
+          {
+            "question": "In the water-pipe analogy, voltage is like...",
+            "choices": ["The pipe's colour", "Water pressure", "The pipe's length"],
+            "answer": 1,
+            "remember": "Voltage is the push, like water pressure."
+          },
+          {
+            "question": "What is current measured in?",
+            "choices": ["Volts", "Ohms", "Amps"],
+            "answer": 2,
+            "remember": "Current is measured in amps, voltage in volts and resistance in ohms."
+          },
+          {
+            "question": "Copper is a good...",
+            "choices": ["Conductor", "Insulator", "Battery"],
+            "answer": 0,
+            "remember": "Conductors like copper let electricity flow easily. Insulators like plastic do not."
+          }
+        ]
+      },
+      "teen": {
+        "analogy": "A circuit is a closed water system. The battery is a pump creating pressure (voltage), the flow rate is the current, and narrow pipes are resistors. The work the water does along the way is the power.",
+        "steps": [
+          "Ohm's law: V = I x R",
+          "Power: P = V x I, measured in watts",
+          "In series every part carries the same current; in parallel every branch has the same voltage",
+          "Conventional current flows from + to -, while electrons actually flow the other way"
+        ],
+        "quiz": [
+          {
+            "question": "12 V across a 4 ohm resistor gives what current?",
+            "choices": ["48 A", "3 A", "0.33 A"],
+            "answer": 1,
+            "remember": "I = V / R = 12 / 4 = 3 amps."
+          },
+          {
+            "question": "A 230 V kettle drawing 10 A uses how much power?",
+            "choices": ["23 W", "240 W", "2300 W"],
+            "answer": 2,
+            "remember": "P = V x I = 230 x 10 = 2300 watts."
+          },
+          {
+            "question": "In a parallel circuit, every branch has the same...",
+            "choices": ["Voltage", "Current", "Resistance"],
+            "answer": 0,
+            "remember": "Parallel branches share the same voltage; series parts share the same current."
+          }
+        ]
+      }
+    }
+  },
+  "water-cycle": {
+    "title": "The water cycle",
+    "emoji": "💧",
+    "aliases": ["water cycle", "hydrological cycle", "rain cycle"],
+    "levels": {
+      "young": {
+        "analogy": "Water goes on a never-ending round trip: up into the sky, down as rain, and back again.",
+        "steps": [
+          "The sun warms the water",
+          "The water rises into the sky and makes clouds",
+          "It falls back down as rain"
+        ],
+        "quiz": [
+          {
+            "question": "What warms the water?",
+            "choices": ["The Moon", "The Sun", "Fish"],
+            "answer": 1,
+            "remember": "The Sun's heat starts the water's journey."
+          },
+          {
+            "question": "What do we call water falling from clouds?",
+            "choices": ["Rain", "Sand", "Wind"],
+            "answer": 0,
+            "remember": "Water falls from clouds as rain."
+          },
+          {
+            "question": "Does the water come back again?",
+            "choices": ["No, it gets used up", "Only on Sundays", "Yes, it goes round and round"],
+            "answer": 2,
+            "remember": "The same water goes round and round. That is why it is called a cycle."
+          }
+        ]
+      },
+      "middle": {
+        "analogy": "It is like a pan of boiling water with a lid. Steam rises, turns back into drops on the lid, and drips back into the pan. The Sun is the cooker and the sky is the lid.",
+        "steps": [
+          "Evaporation: the Sun turns water into vapour",
+          "Condensation: the vapour cools and forms clouds",
+          "Precipitation: water falls as rain, snow or hail",
+          "Collection: water gathers in rivers, lakes and seas"
+        ],
+        "quiz": [
+          {
+            "question": "What is it called when water turns into vapour?",
+            "choices": ["Condensation", "Evaporation", "Precipitation"],
+            "answer": 1,
+            "remember": "Evaporation is liquid water turning into vapour."
+          },
+          {
+            "question": "How do clouds form?",
+            "choices": ["By condensation", "By evaporation", "By collection"],
+            "answer": 0,
+            "remember": "Clouds form when vapour cools and condenses into tiny droplets."
+          },
+          {
+            "question": "Snow is a kind of...",
+            "choices": ["Collection", "Evaporation", "Precipitation"],
+            "answer": 2,
+            "remember": "Precipitation is any water falling from clouds: rain, snow, sleet or hail."
+          }
+        ]
+      },
+      "teen": {
+        "analogy": "The water cycle is a solar-powered pump. The Sun lifts water into the air as vapour, gravity brings it back down, and the energy released along the way drives the weather.",
+        "steps": [
+          "Solar energy drives evaporation, and plants add vapour through transpiration",
+          "Rising air cools, and vapour condenses on tiny dust particles (condensation nuclei)",
+          "Precipitation falls, then runs off into rivers or soaks into the ground (infiltration)",
+          "Condensation releases latent heat, which powers storms"
+        ],
+        "quiz": [
+          {
+            "question": "Water vapour released by plants is called...",
+            "choices": ["Transpiration", "Infiltration", "Sublimation"],
+            "answer": 0,
+            "remember": "Transpiration is plants losing water vapour through their leaves."
+          },
+          {
+            "question": "Water soaking into the ground is called...",
+            "choices": ["Runoff", "Infiltration", "Condensation"],
+            "answer": 1,
+            "remember": "Infiltration is water soaking into the soil; runoff flows over the surface."
+          },
+          {
+            "question": "What does condensation in clouds release?",
+            "choices": ["Carbon dioxide", "Salt", "Latent heat"],
+            "answer": 2,
+            "remember": "Condensing vapour releases latent heat, which fuels storms."
+          }
+        ]
+      }
+    }
+  },
+  "internet": {
+    "title": "How the internet works",
+    "emoji": "🌐",
+    "aliases": ["the internet", "internet works", "web"],
+    "levels": {
+      "young": {
+        "analogy": "The internet is like a giant post office. Your messages are letters that travel to other computers, and they send letters back.",
+        "steps": [
+          "You ask for a web page",
+          "Your request travels through cables and Wi-Fi",
+          "Another computer sends the page back to you"
+        ],
+        "quiz": [
+          {
+            "question": "The internet is like a giant...",
+            "choices": ["Swimming pool", "Post office", "Bakery"],
+            "answer": 1,
+            "remember": "Like a post office, the internet carries messages between computers."
+          },
+          {
+            "question": "How do messages travel?",
+            "choices": ["By bicycle", "By magic", "Through cables and Wi-Fi"],
+            "answer": 2,
+            "remember": "Messages travel through cables and Wi-Fi."
+          },
+          {
+            "question": "What do we call a computer that sends you web pages?",
+            "choices": ["A server", "A toaster", "A mouse"],
+            "answer": 0,
+            "remember": "A server is a computer that serves pages to other computers."
+          }
+        ]
+      },
+      "middle": {
+        "analogy": "It is a postal system for data. Every computer has an address, big messages are split into numbered parcels, and routers are sorting offices that pass the parcels along until they arrive.",
+        "steps": [
+          "Every device has an IP address",
+          "DNS turns names like example.com into addresses, like a phone book",
+          "Data is split into small packets",
+          "Routers pass the packets along, and they are put back together at the end"
+        ],
+        "quiz": [
+          {
+            "question": "DNS is like a...",
+            "choices": ["Phone book", "Battery", "Keyboard"],
+            "answer": 0,
+            "remember": "DNS looks up a name and gives back an address, like a phone book."
+          },
+          {
+            "question": "Data travels in small pieces called...",
+            "choices": ["Bricks", "Packets", "Slices"],
+            "answer": 1,
+            "remember": "Data is split into packets, which are put back together at the end."
+          },
+          {
+            "question": "Routers are like...",
+            "choices": ["Libraries", "Car parks", "Sorting offices"],
+            "answer": 2,
+            "remember": "Routers sort and forward packets, like sorting offices forward letters."
+          }
+        ]
+      },
+      "teen": {
+        "analogy": "Loading a page is like ordering by registered post in a sealed envelope. You look up the address (DNS), agree on delivery rules (TCP), seal the envelope (TLS), then place the order (HTTP).",
+        "steps": [
+          "DNS resolves a hostname to an IP address",
+          "TCP sets up a connection and makes sure packets arrive complete and in order",
+          "TLS encrypts the connection, which is the padlock in HTTPS",
+          "HTTP requests the page, and the server replies with HTML"
+        ],
+        "quiz": [
+          {
+            "question": "Which protocol resends lost packets?",
+            "choices": ["TCP", "UDP", "DNS"],
+            "answer": 0,
+            "remember": "TCP checks delivery and resends lost packets; UDP does not."
+          },
+          {
+            "question": "The padlock in HTTPS comes from...",
+            "choices": ["DNS", "TLS", "IP"],
+            "answer": 1,
+            "remember": "TLS encrypts the connection, and that is what the padlock shows."
+          },
+          {
+            "question": "What does a DNS lookup return?",
+            "choices": ["A web page", "A password", "An IP address"],
+            "answer": 2,
+            "remember": "DNS turns a name into an IP address."
+          }
+        ]
+      }
+    }
+  }
+}

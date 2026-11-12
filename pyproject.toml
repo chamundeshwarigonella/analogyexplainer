@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "analogy-explainer"
+version = "0.1.0"
+description = "Explain a concept with an analogy, pitched at the reader's age."
+requires-python = ">=3.10"
+
+[project.scripts]
+explain = "explainer.cli:main"
+
+[tool.setuptools]
+packages = ["explainer"]
+
+[tool.setuptools.package-data]
+explainer = ["topics.json"]
